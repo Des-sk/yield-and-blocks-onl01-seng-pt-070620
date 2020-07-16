@@ -1,4 +1,5 @@
 def hello_t(array)
+  of block_given?
   i = 0
   
   while i < array.length
